@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background Badge inside the safe zone (Circle of 64dp) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,24 A30,30 0 1,1 53.99,24 Z" />
+    <!-- White Storehouse/Warehouse Crate Silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,38 h32 v4 h-32 z M38,46 h32 v4 h-32 z M38,54 h32 v4 h-32 z M34,32 v32 h40 v-32 z M48,34 h12 v2 h-12 z" />
+    <!-- Hot Pink Fork/Spoon accents to symbolize restaurant catering -->
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M44,48 a3,3 0 1,1 -5.9,0 a3,3 0 0,1 5.9,0 z M69.9,48 a3,3 0 1,1 -5.9,0 a3,3 0 0,1 5.9,0 z" />
+</vector>

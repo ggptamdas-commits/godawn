@@ -1,0 +1,6 @@
+{
+  "name": "রন্ধনভাণ্ডার (RestoGodown)",
+  "description": "গুদাম ও কিচেন ইনভেন্টরি ট্র্যাকার - মালামাল আসা-যাওয়া এবং খরচের হিসাব রাখার প্রিমিয়াম অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
