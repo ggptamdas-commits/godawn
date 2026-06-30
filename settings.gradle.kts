@@ -12,7 +12,10 @@ pluginManagement {
   }
 }
 
-plugins { id("org.gradle.toolchains.foojay-resolver-convention") version "1.0.0" }
+// Plugins configuration
+plugins {
+  // Bypassed foojay resolver for AndroidIDE/Termux offline compatibility
+}
 
 dependencyResolutionManagement {
   repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
